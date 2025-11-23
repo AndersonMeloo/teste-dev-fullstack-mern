@@ -91,3 +91,14 @@ cd frontend
 npm install / npm i
 npm run dev
 ```
+
+## Observação sobre o Fork
+
+Nota sobre o histórico do projeto
+
+- O desenvolvimento deste projeto foi iniciado antes da criação deste fork (início em 20/11/2025).
+- Por esse motivo, o repositório principal contém o histórico completo de commits e pode ser utilizado para acompanhar toda a evolução do projeto desde o começo.
+
+### Repositório principal:
+https://github.com/AndersonMeloo/Ecommerce
+- Este fork continuará sendo atualizado normalmente conforme o desenvolvimento avança.
