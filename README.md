@@ -20,6 +20,7 @@
 - React: Interface do usuário
 - React Router: Gerenciamento de rotas e navegação SPA
 - TypeScript: Tipagem segura
+- Scss: Para Estilização
 
 ### Banco de Dados
 
@@ -58,14 +59,6 @@ projeto-raiz/
 │   └── package.json
 └── README.md
 ```
-
-### Frontend
-
-- React
-- React Router para navegação
-- Axios para requisições HTTP
-- React Context ou Zustand para estado global
-- CSS ou Tailwind CSS para estilos
 
 ### Pré-requisitos
 - Chaves de API do Pagar.me (ambiente de teste)
