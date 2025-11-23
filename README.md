@@ -60,9 +60,6 @@ projeto-raiz/
 └── README.md
 ```
 
-### Pré-requisitos
-- Chaves de API do Pagar.me (ambiente de teste)
-
 ### Instalação
 
 ## Execução
