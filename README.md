@@ -1,43 +1,30 @@
 # E-commerce Fullstack
 
-### Backend (Node.js)
+### 🟦 Backend (Node.js + Express)
 
-1. Autenticação JWT com refresh tokens
-2. Gerenciamento de usuários e clientes
-3. Gestão de produtos com categorias
-4. Criação e processamento de pedidos
-5. Integração com gateway de pagamento simulado
-6. Tratamento de simulação de webhooks do gateway
-7. Validações em todos os endpoints
-8. Tratamento centralizado de erros
-9. Logging estruturado
-10. Testes unitários para funções críticas
+- Express: Framework principal da API
+- Prisma ORM: ORM para MongoDB
+- MongoDB: Banco de dados NoSQL
+- TypeScript: Tipagem e segurança
+- Zod: Validação de dados
+- JWT (jsonwebtoken): Autenticação
+- Bcrypt-ts: Criptografia de senhas
+- Dotenv: Variáveis de ambiente
+- Helmet: Segurança e proteção de headers
+- CORS: Permitir consumo externo
+- Node-Cron: Tarefas agendadas
+
 
 ### Frontend (React)
 
-1. Páginas de autenticação (login e registro)
-2. Listagem de produtos com filtros
-3. Carrinho de compras funcional
-4. Fluxo de checkout com integração ao Pagar.me
-5. Página de perfil do usuário
-6. Histórico de pedidos
-7. Interface responsiva
-8. Tratamento de erros e feedback ao usuário
-9. Estados de carregamento adequados
-
-### Cronjobs
-
-Implementar pelo menos dois trabalhos agendados:
-
-1. Sincronização de status de pagamentos com gateway simulado
-2. Limpeza de carrinhos abandonados (opcional: envio de email)
+- React: Interface do usuário
+- React Router: Gerenciamento de rotas e navegação SPA
+- TypeScript: Tipagem segura
 
 ### Banco de Dados
 
-1. Coleções de usuários, produtos, pedidos e pagamentos
-2. Relacionamentos apropriados entre coleções
-3. Índices para otimização de consultas
-4. Validadores de schema quando aplicável
+- MongoDB: Banco NoSQL orientado a documentos
+- Prisma ORM: Controle de modelos, migrations e acesso ao banco
 
 ## Estrutura do Projeto
 
