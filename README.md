@@ -1,11 +1,3 @@
-- Backend com Node.js e Express
-- Frontend com React
-- Integração com gateway de pagamento (Pagar.me)
-- Banco de dados MongoDB
-- Sistema de cronjobs para tarefas agendadas
-- Autenticação e autorização
-- Tratamento de erros e validações
-
 ### Backend (Node.js)
 
 1. Autenticação JWT com refresh tokens
