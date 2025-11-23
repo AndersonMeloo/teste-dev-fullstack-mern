@@ -1,4 +1,4 @@
-#E-commerce Fullstack
+# E-commerce Fullstack
 
 ### Backend (Node.js)
 
