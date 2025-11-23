@@ -76,6 +76,15 @@ projeto-raiz/
 
 Backend:
 
+Env
+Renomeie o arquivo .env.example para .env
+
+- PORT: Porta onde o servidor backend irá rodar
+- NODE_ENV: Ambiente da aplicação (development ou production)
+- BASE_URL: URL base da API (normalmente http://localhost:5000)
+- DATABASE_URL: URL de conexão do MongoDB
+- JWT_SECRET: Chave secreta usada para gerar e validar tokens JWT.
+
 ```bash
 cd backend
 npm install / npm i
