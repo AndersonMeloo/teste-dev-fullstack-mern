@@ -78,7 +78,16 @@ Renomeie o arquivo .env.example para .env
 ```bash
 cd backend
 npm install / npm i
+
+# Prisma
+npx prisma generate
+npx prisma migrate dev
+
+# Rodar backend
 npm run dev
+
+# Prisma
+npx prisma studio
 ```
 
 Frontend:
